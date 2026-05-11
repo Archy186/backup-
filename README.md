@@ -11,3 +11,6 @@
 Резервная копия должна создаваться раз в день, в системном логе должна появляться запись об успешном или неуспешном выполнении операции.
 Резервная копия размещается локально, в директории /tmp/backup.
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
+<img width="1938" height="1186" alt="задание 2-3" src="https://github.com/user-attachments/assets/37fa52b7-9bf9-4435-a12f-b69326c0ebc3" />
+<img width="1938" height="1182" alt="Задание 2-2" src="https://github.com/user-attachments/assets/80c5439d-023d-4ce3-8f35-606d9e257e71" />
+<img width="1961" height="1199" alt="задание 2" src="https://github.com/user-attachments/assets/61cbd927-2137-472a-8591-ec6ef9dfed90" />
